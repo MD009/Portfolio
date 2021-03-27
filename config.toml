@@ -53,7 +53,7 @@ googleAnalytics = ""
 [params]
 home = "Home"
 # Meta data
-description = "The website of Sam Robbins, 2nd Year Computer Science Student at Durham University"
+description = "The website of Manik Dhingra, Business Analyst at JP Morgan Chase"
 author = "Sam Robbins"
 
 
@@ -62,8 +62,8 @@ author = "Sam Robbins"
   formAction = "" #contact form works with formspree.io
 
   [params.footer]
-  email = "samrobbinsgb@gmail.com"
-  address = "Durham, UK"
+  email = "manik.analyst@gmail.com"
+  address = "New Jersey, USA"
   googlemaps = "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwbHYJaUqfEgRK0Ui9dVGimc&key=AIzaSyAE_4rVAKux_DSPcb_OdSRDaovtPOSk_3U"
 
 [markup]
