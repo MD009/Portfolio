@@ -6,11 +6,6 @@ webhook_url:
 sections:
 - type: directory
   path: content/about
-  label: Resume
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/about
   label: About
   create: all
   match: "**/*"
@@ -25,7 +20,7 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/portfolio
+  path: content/Articles
   label: Portfolio
   create: all
   match: "**/*"
