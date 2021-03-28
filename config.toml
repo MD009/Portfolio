@@ -13,21 +13,21 @@ noClasses = true
 style = "rainbow_dash"
 tabWidth = 4
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
-[[menu.main]]
-URL = "portfolio"
-name = "Articles"
-weight = 3
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 2
-[[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
+[[menu.main]]
+URL = "blog"
+name = "Articles"
+weight = 2
+[[menu.main]]
+URL = "portfolio"
+name = "Portfolio"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
 [[module.imports]]
 path = "github.com/samrobbins85/hugo-developer-portfolio"
 [params]
